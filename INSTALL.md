@@ -534,17 +534,6 @@ int main() {
 ummm 还是尽量 英格力士 吧，网上搜了很多解决方案都不怎么好..........
 
 
-
-# 参考资料
-
-- https://www.bilibili.com/video/BV1kM411X7uA
-
-![image-20250616094854938](./assets/image-20250616094854938.png)
-
-- https://www.bilibili.com/video/BV1PU411S7Zw
-
-![image-20250616094745306](./assets/image-20250616094745306.png)
-
 # TODO
 
 - vcpkg
