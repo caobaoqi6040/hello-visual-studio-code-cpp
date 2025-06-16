@@ -427,7 +427,7 @@ video
 ![image-20250616102159197](./assets/image-20250616102159197.png)
 
 ```shell
-hello_visual_studio_code_cpp/
+hello-visual-studio-code-cpp/
 ├── 配置文件
 │   ├── .editorconfig    # 跨编辑器代码风格配置
 │   ├── .gitignore       # git 版本控制忽略规则
