@@ -1,0 +1,9 @@
+*.exe
+resources
+videos
+.runtime
+.archive
+build
+
+.idea
+*.iml

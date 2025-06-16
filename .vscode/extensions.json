@@ -1,0 +1,23 @@
+{
+    "recommendations": [
+        // "MS-CEINTL.vscode-language-pack-zh-hans", // 中文语言包
+        "atommaterial.a-file-icon-vscode",  // 文件图标主题
+        // 版本控制相关
+        "mhutchie.git-graph",               // 可视化 git 分支图
+        "redjue.git-commit-plugin",         // git 提交信息辅助工具（含规范化提示）
+        // 代码标记与笔记工具
+        "wayou.vscode-todo-highlight",      // TODO 注释高亮显示
+        "yzhang.markdown-all-in-one",       // Markdown 全功能支持
+        // C++ 核心开发工具链
+        "ms-vscode.cpptools",              // 官方 C++ 扩展（提供 IntelliSense、调试等功能）
+        "ms-vscode.cmake-tools",           // CMake 集成支持
+        "GitHub.copilot",                   // GitHub AI 编程助手
+        // 远程开发支持
+        "ms-vscode-remote.remote-ssh",      // SSH 远程开发支持
+        // 代码风格与格式化
+        "EditorConfig.EditorConfig",        // 多编辑器统一代码风格配置
+        "LeetCode.vscode-leetcode",         // LeetCode 刷题集成
+        // 快捷键方案（针对从 IDEA 转来的开发者）
+        "k--kato.intellij-idea-keybindings" // IntelliJ IDEA 快捷键映射
+    ]
+}

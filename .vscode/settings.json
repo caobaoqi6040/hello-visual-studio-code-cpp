@@ -1,0 +1,30 @@
+{
+    // 文件自动保存设置 - 当编辑器失去焦点时自动保存
+    "files.autoSave": "onFocusChange",
+    // 设置默认的代码格式化工具为 EditorConfig
+    "editor.defaultFormatter": "EditorConfig.EditorConfig",
+    // 在保存文件时自动格式化代码
+    "editor.formatOnSave": true,
+    // 禁用删除文件时的确认对话框
+    "explorer.confirmDelete": false,
+    // 编辑器字体设置
+    "editor.fontFamily": "Cascadia Mono", // 使用 Cascadia Mono 字体
+    "editor.fontSize": 12.6,             // 字体大小设为12.6
+    "editor.fontWeight": "normal",       // 字体粗细为正常
+    // 窗口缩放级别
+    "window.zoomLevel": 1.5,
+    // 光标设置
+    "editor.cursorStyle": "line",        // 光标样式为线型
+    "editor.cursorBlinking": "expand",   // 光标闪烁效果为扩展动画
+    "editor.cursorWidth": 1,             // 光标宽度为1像素
+    "editor.cursorSmoothCaretAnimation": "on", // 启用平滑的光标动画
+    // Markdown预览字体大小
+    "markdown.preview.fontSize": 11,
+    // 工作区主题设置
+    "workbench.colorTheme": "One Monokai",      // 使用 One Monokai 颜色主题
+    "workbench.iconTheme": "a-file-icon-vscode", // 使用 a-file-icon-vscode 图标主题
+    // Git提交插件设置 - 限制主题行最多30个字符
+    "GitCommitPlugin.MaxSubjectCharacters": 30,
+    // 启用文件嵌套功能（将相关文件分组显示）
+    "explorer.fileNesting.enabled": true
+}
